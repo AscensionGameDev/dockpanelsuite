@@ -28,7 +28,8 @@
     <AssemblyOriginatorKeyFile>dockpanelsuite.snk</AssemblyOriginatorKeyFile>
     <EnableDefaultItems>false</EnableDefaultItems>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <IsPublishable>True</IsPublishable>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Docking\Configuration\PatchSection.cs" />

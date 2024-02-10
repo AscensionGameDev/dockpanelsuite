@@ -21,7 +21,7 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>dockpanelsuite.snk</AssemblyOriginatorKeyFile>
     <EnableDefaultItems>false</EnableDefaultItems>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ThemeVS2003\InertButton.cs">
